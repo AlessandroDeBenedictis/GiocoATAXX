@@ -1,0 +1,53 @@
+System.out.println("# Ataxx: Guida al Gioco \n")
+
+System.out.println("## Descrizione del Gioco\n")
+System.out.println("Ataxx è un gioco da tavolo strategico per due giocatori,")
+System.out.println("che viene giocato su una scacchiera")
+ System.out.println("quadrata di dimensioni variabili (tipicamente 7x7 o 8x8). \n")
+System.out.println("L'obiettivo del gioco è conquistare il maggior numero di caselle,") 
+System.out.println("convertendo le pedine dell'avversario in pedine del proprio colore. \n\n\n")
+
+System.out.println("## Regole del Gioco \n")
+System.out.println("**Scopo**: \n")1. 
+ System.out.println("Il giocatore con il maggior numero di pedine del proprio colore")  
+  System.out.println("alla fine del gioco vince.\n\n\n")
+
+System.out.println("2.**Posizionamento Iniziale**:\n") 
+  System.out.println("- Le pedine dei due giocatori sono posizionate ")  
+System.out.println("agli angoli opposti della scacchiera.\n")
+ System.out.println("Ogni giocatore inizia con due pedine.\n\n\n")  - 
+
+System.out.println("**Turni di Gioco**: \n")3. 
+   System.out.println("- I giocatori si alternano a fare le proprie mosse. \n")
+ System.out.println("- Il giocatore di turno può muovere una delle proprie pedine")  
+System.out.println(" a un'altra casella della scacchiera.\n\n\n")
+
+System.out.println("**Tipi di Mosse**: \n")4. 
+  System.out.println("- **Salto**: Una pedina può saltare a una casella vuota")  
+System.out.println("che dista fino a due passi in qualsiasi direzione ")
+System.out.println("(orizzontale, verticale o diagonale). \n")
+  System.out.println("- **Duplice Mossa**: Se la pedina viene mossa a una casella")  
+System.out.println("adiacente (orizzontale, verticale o diagonale),")
+ System.out.println("la mossa crea una copia della pedina nel nuovo spazio, ")
+System.out.println("lasciando la pedina originale al suo posto.\n\n\n")
+
+System.out.println("**5. Conversione delle Pedine**:") 
+  System.out.println("- Se una pedina viene spostata vicino \n") 
+System.out.println("a una o più pedine dell'avversario, ") 
+System.out.println(" queste vengono convertite in pedine del ") 
+System.out.println("colore del giocatore che ha fatto la mossa. \n")
+ System.out.println("- La conversione avviene per le pedine che sono adiacenti ")  
+ System.out.println("(orizzontali, verticali o diagonali) alla nuova posizione della pedina. \n") 
+
+System.out.println("6. **Fine del Gioco**:\n")
+  System.out.println("- Il gioco termina quando non ci sono più mosse disponibili ") 
+ System.out.println("o quando un giocatore controlla tutte le caselle. \n") 
+ System.out.println("- Il vincitore è il giocatore con il maggior numero di pedine.\n\n\n")  
+
+System.out.println("## Suggerimenti per Giocare \n")
+System.out.println("- Cerca di occupare le zone centrali della scacchiera per ")
+ System.out.println("massimizzare le opportunità di conversione.\n") 
+System.out.println("- Pianifica le tue mosse per bloccare le opportunità dell'avversario. \n")
+System.out.println("- Tieni sempre d'occhio le caselle che possono essere convertite con una mossa strategica. \n\n\n")
+
+System.out.println("Buon divertimento con Ataxx! \n") 
