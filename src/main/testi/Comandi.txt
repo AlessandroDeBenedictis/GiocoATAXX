@@ -1,0 +1,17 @@
+## Comandi utili:
+/help
+ Mostra i comandi utili per il Gioco
+/gioca
+Questo comando avvia una nuova partita da zero, resettando il tabellone e reimpostando lo stato del gioco.
+/mostrapunteggio:
+Mostra il punteggio attuale o il numero di pedine di ciascun giocatore.
+/salva:
+Salva lo stato attuale del gioco, consentendo ai giocatori di riprendere da dove hanno lasciato.
+/carica:
+Carica uno stato di gioco precedentemente salvato.
+/indietro:
+Annulla più mosse o riporta il gioco a uno stato precedente.
+/impostazioni:
+Consente di cambiare le impostazioni del gioco, come dimensioni del tabellone o tempo limite per i turni.
+/fine:
+Termina la partita attuale e consente di iniziare una nuova partita o tornare al menu principale.
